@@ -150,19 +150,9 @@
               "icon": "lucide-list",
               "title": "Структура Гирлянда для зомбей"
             }
-          },
-          {
-            "id": "b6dae71ce7f19e47",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,7 +170,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "35a03de8ad7a5fbd",
+  "active": "392681f17a2c2442",
   "lastOpenFiles": [
     "test",
     "Гирлянда для зомбей.md"

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Гирлянда для зомбей.md",
+                "file": "test/Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Гирлянда для зомбей"
+              "title": "Без названия"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Гирлянда для зомбей.md",
+                "file": "test/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Гирлянда для зомбей"
+              "title": "Обратные ссылки для Без названия"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Гирлянда для зомбей.md",
+                "file": "test/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Гирлянда для зомбей"
+              "title": "Исходящие ссылки из Без названия"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Гирлянда для зомбей.md",
+                "file": "test/Без названия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Гирлянда для зомбей"
+              "title": "Структура Без названия"
             }
           }
         ],
@@ -172,7 +172,8 @@
   },
   "active": "392681f17a2c2442",
   "lastOpenFiles": [
-    "test",
-    "Гирлянда для зомбей.md"
+    "Гирлянда для зомбей.md",
+    "test/Без названия.md",
+    "test"
   ]
 }
